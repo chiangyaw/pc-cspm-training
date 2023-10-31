@@ -16,3 +16,5 @@ In this workshop, you'll learn how to secure cloud infrastructure with Prisma Cl
 * Get an overview of Prisma Cloud integration with AWS
 * Onboard cloud accounts to enable visibility, compliance, and governance
 * Monitor, investigate, and remediate issues triggered by alerts and send notifications to integrated third-party services
+
+To start off, click [here](/01-SettingUpAWSAccount.md) to move on to setup your AWS account.
