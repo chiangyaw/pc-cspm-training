@@ -27,4 +27,5 @@ Data exfiltration risk due to a publicly exposed AWS EC2 instance with s3:GetObj
 
 5. On the popped up window, click on Objects tab, and look into the details:
     * Is there a malware in this S3 bucket?
-    * Is there 
+    * Is there any PII data in this S3 bucket as well?
+

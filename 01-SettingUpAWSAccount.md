@@ -1,7 +1,6 @@
-# Cloud DevSecOps Lab
+# Prisma Cloud Hands on Lab - Secure The Infrastructure
 ## Setting Up your AWS Account
-As part of this workshop, you will need an AWS account, which can be either your own AWS account or utilize AWS account given from the event organizer. We will be using the AWS account for Cloud9 IDE, and to deploy cloud resources as part of this workshop.
-
+As part of this workshop, you will need an AWS account, which can be either your own AWS account or utilize AWS account given from the event organizer.
 
 ### Using your own AWS Account
 If you would like to use your own AWS account, you can register one [here](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup).
