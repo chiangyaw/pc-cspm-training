@@ -30,4 +30,4 @@ _Note: We can support generating report through recurring basis such as daily, w
 
 _Note: As your AWS account is empty, you might not see any resources in the PCI DSS report which only covers your AWS account. Re-run the steps in this section with Default Account Group instead, which covers other demo AWS accounts._
 
-Once you are reviewed the compliance report, you can move on to the next section by clicking [here](/07-ScanningwithTerraformCloud.md)).
+Once you are reviewed the compliance report, you can move on to the next section by clicking [here](/09-GeneratingTopCloudRiskReport.md).

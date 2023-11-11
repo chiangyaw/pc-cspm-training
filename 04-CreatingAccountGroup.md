@@ -10,4 +10,4 @@ This section will provide a step by step guide on creating an Account Group, and
 ![alt text](/resources/pc-accountgroup-1.png?raw=true)
 ![alt text](/resources/pc-accountgroup-2.png?raw=true)
 
-Once you have created the Account Group, continue with the next step [here](/07-ScanningwithTerraformCloud.md))
+Once you have created the Account Group, continue with the next step [here](/05-CreatingCustomPolicy.md))

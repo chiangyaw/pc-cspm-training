@@ -26,4 +26,4 @@ _Note: After creating the Security Group, the details will not be reflected imme
 6. You should also receive an email notification which looks like this:
 ![alt text](/resources/pc-emailnotification-1.png?raw=true)
 
-Once you are able to see the alert on the Prisma Cloud Alert Overview, and receive the email notification, you can continue to the next section [here](/07-ScanningwithTerraformCloud.md))
+Once you are able to see the alert on the Prisma Cloud Alert Overview, and receive the email notification, you can continue to the next section [here](/08-GeneratingComplianceReport.md).

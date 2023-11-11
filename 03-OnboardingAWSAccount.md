@@ -20,4 +20,4 @@ For Prisma Cloud to provide visibility & control to cloud accounts that are onbo
 6. Wait for the authentication check to be completed, you should see everything as green tick except those which are not enabled. Click Save and Close to proceed.
 ![alt text](/resources/pc-onboarding-4.png?raw=true)
 
-Your AWS assets information will not be available in Prisma Cloud immediately. It will take up to 24 hours to be reflected, but for small environments, you should be able to see it in less than 1 hour. In the meantime, feel free to proceed to the next step [here](/07-ScanningwithTerraformCloud.md))
+Your AWS assets information will not be available in Prisma Cloud immediately. It will take up to 24 hours to be reflected, but for small environments, you should be able to see it in less than 1 hour. In the meantime, feel free to proceed to the next step [here](/04-CreatingAccountGroup.md))

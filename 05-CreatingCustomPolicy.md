@@ -18,4 +18,4 @@ _Note: In the event where Next button is greyed out, you will need to click Prev
 
 4. On the Compliance Standards, click Next. On Remediation, leave everything as blank and click Submit. 
 
-Once you have done creating the custom policy, continue with the next step [here](/07-ScanningwithTerraformCloud.md))
+Once you have done creating the custom policy, continue with the next step [here](/06-AddingCustomPolicy.md).

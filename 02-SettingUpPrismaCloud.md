@@ -12,7 +12,7 @@ Once logged in, you should see the First Time Wizard. Choose "Cloud Security" on
 ![Alt Text](/resources/pc-ftw-1.png?raw=true)
 Note: If you don't see the First Time Wizard page, it means that you have logged into this Prisma Cloud tenant before. Just proceed to the next step.
 
-Once you are done setting up Prisma Cloud environment, you can move on to the next section [here](/05-IaCScanning.md)
+Once you are done setting up Prisma Cloud environment, you can move on to the next section [here](/03-OnboardingAWSAccount.md)
 
 
 ### Troubleshooting access to Prisma Cloud 

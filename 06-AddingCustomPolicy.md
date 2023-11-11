@@ -22,4 +22,4 @@ In order for a policy to generate alert, it has to be added to an alert rule. Us
 
 _Note: We are using Emails as a notification in this example. Email is not the best approach from notification perspective as there is usually delay when a notification is triggered, which can be due to email security installed in the customer’s email account/server. For actual deployment, typical notifications can be AWS Security Hub, SNS, etc._
 
-Once you have done creating the alert rule, continue with the next step [here](/07-ScanningwithTerraformCloud.md))
+Once you have done creating the alert rule, continue with the next step [here](/07-TestingAlertRule.md).
