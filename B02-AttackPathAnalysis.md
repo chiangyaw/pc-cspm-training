@@ -1,4 +1,3 @@
-# Work in Progress
 # Prisma Cloud Hands on Lab - Secure The Infrastructure
 ## Identifying Cloud Environment Risk through Attack Path Analysis
 
@@ -29,3 +28,6 @@ Data exfiltration risk due to a publicly exposed AWS EC2 instance with s3:GetObj
     * Is there a malware in this S3 bucket?
     * Is there any PII data in this S3 bucket as well?
 
+With Attack Path policies, users are able to focus on prioritized alerts that increase the likelihood of a security breach. Also, with the information and investigation capabilities provided by Prisma Cloud, Security team can easily identify the risks involved and remediate the risks accordingly. 
+
+Once you are done reviewing the attack path alert details, you can continue to the next section [here](/B03-IdentityRisks.md).
