@@ -1,7 +1,7 @@
 # Prisma Cloud Hands on Lab - Secure The Infrastructure
 ## Cleaning Up
 
-Congratulations for reaching till this stage as part of the workshop. If you still have additional time to spare and you would like to explore more on Prisma Cloud, you can head over to the bonus section [here](/07-ScanningwithTerraformCloud.md).
+Congratulations for reaching till this stage as part of the workshop. If you still have additional time to spare and you would like to explore more on Prisma Cloud, you can head over to the bonus section [here](/B01-AgentlessSecurity.md).
 
 To complete the lab session, clean up and remove the following:
 In Prisma Cloud:
