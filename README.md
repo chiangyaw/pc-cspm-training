@@ -8,7 +8,7 @@ In this workshop, you'll learn how to secure cloud infrastructure with Prisma Cl
 
 #### Prerequisites
 * Access to Prisma Cloud Lab Tenant
-* AWS Cloud Account (Register [here](https://aws.amazon.com/resources/create-account/))
+* AWS Cloud Account (Register [here](https://aws.amazon.com/resources/create-account/) for free)
 * Personal Git Account (register one [here](https://github.com/signup) for free)
 * A willingness to learn and experiment
 * A laptop with a reliable browser such as Google Chrome, Firefox, etc
