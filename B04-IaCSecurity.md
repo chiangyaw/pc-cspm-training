@@ -122,13 +122,19 @@ Now you have onboarded your GitHub repository to Prisma Cloud. Prisma Cloud will
 #### Running through the misconfiguration of your S3 Bucket & Generating a pull request as fix
 Once your Terraform code repository has been scanned, the misconfiguration will be flagged out in Prisma Cloud. This is how you as a Security Professional able to minimize misconfiguration on your IaC code with Prisma Cloud. 
 
+By utilizing Prisma Cloud, you can also create a pull request as a suggestion for fix to the code repository. This will help to minimize the manual effort required for fix for the security professionals.
+
 1. Choose Application Security > Home > Repositories. Filter the repository to your own Organization. Click on the number on IaC (this indicates the number of misconfiguration found in the IaC).
 ![alt text](/resources/pc-appsec-1.png?raw=true)
 
 2. This page shows the misconfiguration in details, where you are able to click and run through the details, to understand the risk and the recommended fix.
 ![alt text](/resources/pc-appsec-2.png?raw=true)
 
-3. Click on the resource name under AWS S3 Ob
+3. Click on the resource name under AWS S3 Object Versioning is disabled, then click on the "+" icon at the end of the column. Then click the Submit button.
+
+Note: It will take a couple of section for a pull request to be generated. Once completed, you will see a pull request generated on your code repository in GitHub. 
+
+With this, you have reviewed a security alert due to a misconfiguration on your IaC code, and Prisma Cloud has provided a recommmendation to fix the misconfiguration!
 
 
 ### Deploying with Terraform
