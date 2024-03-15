@@ -220,3 +220,5 @@ Make sure that you have applied the Terraform resources from the Pull Request se
 ![alt text](/resources/aws-s3-properties-3.png?raw=true)
 
 You have now created a simple drift in your s3 bucket. Now, time to wait until Prisma Cloud notices the change and generate the alert. This can take anywhere from 15 minutes to an hour, depending on the scan cycle. Once the drift is detected, you can either run ```terraform apply``` again in Terraform Cloud to fix the drift by matching it back to the IaC configuration. If the cloud configuration is correct, the changes on the IaC template can be made by submitting a PR through Prisma Cloud. In the Projects page, you will be able to find the drift by filtering IaC Categories to "Drift". Click on the policy and the "+" icon, and click Submit.
+
+You're at the end of the Prisma Cloud Hands On Lab. You can proceed to the clean up section [here](/12-CleaningUp.md) to clean things up before you leave the session. Once again, thank you for joining us in the Prisma Cloud Hands On Lab!
