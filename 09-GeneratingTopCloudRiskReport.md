@@ -5,4 +5,10 @@ Another way to look into the top cloud risk & incident is to look into the Comma
 
 In this section, we will provide a step by step guide on reviewing top incidents on Command Center Dashboard, and generating Top Cloud Risk & Incident Report. 
 
-1. 
+1. Go to Cloud Security > Dashboards > Command Center.
+![alt text](/resources/pc-commandcenter-1.png?raw=true)
+
+2. Click on Generate Report. Once you have done it, you will see a PDF file downloaded to your endpoint. The report shows you the top cloud risks & incidents in the cloud environment, according to your filter configured on Prisma Cloud
+![alt text](/resources/pc-commandcenter-2.png?raw=true)
+
+With that, you have generated a Top Cloud Risk & Incident Report. To move on to the next section, click [here](/10-AutoRemediation.md).
