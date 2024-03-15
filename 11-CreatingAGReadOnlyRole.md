@@ -29,4 +29,6 @@ This section covers a step by step guide to create a Account Group Read-Only Rol
 
 6. With the new role, you should only be able to see your own Account Group, and the Cloud Accounts associated with the Account Group. You won’t be able to make any changes since this is a Read Only role. 
 
-Once you are able to assume the Read Only role, you can assume back the System Admin role and move to the nexst section by clicking [here](/07-ScanningwithTerraformCloud.md).
+Once you are able to assume the Read Only role, you can assume back the System Admin role and move to the bonus sections by clicking [here](/B01-AgentlessSecurity.md).
+
+If you are done with the lab and do not have enough time to proceed to the bonus stages, you can just move on to clean up [here](/E01-CleaningUp.md)
