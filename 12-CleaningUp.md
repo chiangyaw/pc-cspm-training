@@ -12,6 +12,7 @@ In Prisma Cloud:
 In AWS Account:
 1. Delete both of the Security Groups that you have created.
 2. Delete the Cloud Formation deployed as part of Prisma Cloud integration.
+3. Run ```terraform destroy --auto-approve``` to destroy the S3 bucket created in [IaC Security lab](/B04-IaCSecurity.md). 
 
 In GitHub Account:
 1. Delete the Prisma Cloud DevSecOps integration in your GitHub account [here](https://github.com/settings/installations).
