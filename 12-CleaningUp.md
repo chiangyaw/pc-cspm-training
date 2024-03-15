@@ -16,5 +16,6 @@ In AWS Account:
 
 In GitHub Account:
 1. Delete the Prisma Cloud DevSecOps integration in your GitHub account [here](https://github.com/settings/installations).
+2. Delete the code repository that you have created in Settings > Delete this repository. 
 
 You have reached the end of the workshop. Thank you for your time and hope to see you again!
