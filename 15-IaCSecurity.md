@@ -1,4 +1,4 @@
-# Prisma Cloud Hands on Lab - Secure The Infrastructure
+# Prisma Cloud Hands on Lab - Secure The Source
 ## IAC Security
 As more and more enterprise users starting to adopt Infrastructure as Code (IaC), such as Terraform, which enables engineers to version control, deploy, and improve cloud infrastructure while leveraging DevOps processes. This also presents an opportunity to proactively improve the posture of cloud infrastructure and reduce the burden on security and operations teams.
 
@@ -219,6 +219,6 @@ Make sure that you have applied the Terraform resources from the Pull Request se
 3. Click "Add tag", type in "Drift for key, and "ThisisTheDrift" for value. Click Save changes.
 ![alt text](/resources/aws-s3-properties-3.png?raw=true)
 
-You have now created a simple drift in your s3 bucket. Now, time to wait until Prisma Cloud notices the change and generate the alert. This can take anywhere from 15 minutes to an hour, depending on the scan cycle. Once the drift is detected, you can either run ```terraform apply``` again in Terraform Cloud to fix the drift by matching it back to the IaC configuration. If the cloud configuration is correct, the changes on the IaC template can be made by submitting a PR through Prisma Cloud. In the Projects page, you will be able to find the drift by filtering IaC Categories to "Drift". Click on the policy and the "+" icon, and click Submit.
+You have now created a simple drift in your s3 bucket. Now, time to wait until Prisma Cloud notices the change and generate the alert. This can take anywhere from 15 minutes to an hour, depending on the scan cycle. Once the drift is detected, you can either run ```terraform apply``` again in Terraform Cloud to fix the drift by matching it back to the IaC configuration. If the cloud configuration is correct, the changes on the IaC template can be made by submitting a PR through Prisma Cloud. In the Projects page, you will be able to find the drift by filtering IaC Categories to "Drift". Click on the policy and the "+" icon, and click Submit. As this is a batch job, it will take a few minutes before the PR appears in your repository. Once done, you should be able to see a PR generated in your code repository, which is suggesting the fix, which can be merged into the main code once approved.
 
-You're at the end of the Prisma Cloud Hands On Lab. You can proceed to the clean up section [here](/12-CleaningUp.md) to clean things up before you leave the session. Once again, thank you for joining us in the Prisma Cloud Hands On Lab!
+Once you are done reviewing the PR, you can continue to the next section [here](/16-SCA.md).

@@ -30,4 +30,4 @@ Data exfiltration risk due to a publicly exposed AWS EC2 instance with s3:GetObj
 
 With Attack Path policies, users are able to focus on prioritized alerts that increase the likelihood of a security breach. Also, with the information and investigation capabilities provided by Prisma Cloud, Security team can easily identify the risks involved and remediate the risks accordingly. 
 
-Once you are done reviewing the attack path alert details, you can continue to the next section [here](/B03-IdentityRisks.md).
+Once you are done reviewing the attack path alert details, you can continue to the next section [here](/14-IdentityRisks.md).

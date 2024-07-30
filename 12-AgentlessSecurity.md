@@ -27,4 +27,4 @@ _Note: This section does not include a step by step guide to enable Agentless Se
 5. Go to Monitor > Compliance > Hosts. Look into the hosts that are identified by Prisma Cloud. Review the details on the findings on critical compliance items. Perform the same for images.
 ![alt text](/resources/pc-agentless-2.png?raw=true)
 
-Once you are done reviewing the vulnerabilities & compliance risks, you can continue to the next section [here](/B02-AttackPathAnalysis.md).
+Once you are done reviewing the vulnerabilities & compliance risks, you can continue to the next section [here](/13-AttackPathAnalysis.md).

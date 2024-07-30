@@ -1,4 +1,4 @@
-# Prisma Cloud Hands on Lab - Secure The Infrastructure
+# Prisma Cloud Hands on Lab - Secure The Infrastructure & Source
 ## PRISMA CLOUD BY PALO ALTO NETWORKS
 
 ### Introduction

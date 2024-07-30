@@ -26,4 +26,4 @@ This section will cover a high level details on looking into a single IAM alert 
 
 Prisma Cloud is able to calculate net effective permissions for specific users or machines in your cloud accounts. With this information, Prisma Cloud is also able to provide information on permission usage and recommendation on least privilege access, which ultimate reduce identity risks in your cloud environment.
 
-Once you are done reviewing the identity risks, you can continue to the next section [here](/B04-IaCSecurity.md).
+Once you are done reviewing the identity risks, you can continue to the next section [here](/15-IaCSecurity.md).
